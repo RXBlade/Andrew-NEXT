@@ -50,6 +50,7 @@ function Product() {
             </div>
             <button className="flex items-center justify-center bg-[hsl(158,36%,37%)] rounded-md p-3 mx-auto w-11/12 gap-2">
               <Image
+                alt="Shopping cart"
                 src="/images/icon-cart.svg"
                 width="15px"
                 height="15px"
