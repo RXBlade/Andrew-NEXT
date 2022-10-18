@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "avatar": "../public/images/avatar-mark-webber.webp",
+        "name": "Mark Webber",
+        "notificationDescription": "reacted to your recent post",
+        "timeAgo": "1m ago",
+        "message": "",
+        "yourPicture": "",
+        "highlight": "My first tournament today!",
+        "isRead": false
+    },
+    {
+        "id": 1,
+        "avatar": "../public/images/avatar-angela-gray.webp",
+        "name": "Angela Gray",
+        "notificationDescription": "followed you",
+        "timeAgo": "5m ago",
+        "message": "",
+        "yourPicture": "",
+        "highlight": "",
+        "isRead": false
+    },
+    {
+        "id": 2,
+        "avatar": "../public/images/avatar-jacob-thompson.webp",
+        "name": "Jacob Thompson",
+        "notificationDescription": "has joined your group",
+        "timeAgo": "1 day ago",
+        "message": "",
+        "yourPicture": "",
+        "highlight": "Chess Club",
+        "isRead": false
+    },
+    {
+        "id": 3,
+        "avatar": "../public/images/avatar-rizky-hasanuddin.webp",
+        "name": "Rizky Hasanuddin",
+        "notificationDescription": "sent you a private message",
+        "timeAgo": "5 days ago",
+        "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+        "yourPicture": "",
+        "highlight": "",
+        "isRead": true
+    },
+    {
+        "id": 4,
+        "avatar": "../public/images/avatar-kimberly-smith.webp",
+        "name": "Kimberly Smith",
+        "notificationDescription": "commented on your picture",
+        "timeAgo": "1 week ago",
+        "message": "",
+        "yourPicture": "../public/images/image-chess.webp",
+        "highlight": "",
+        "isRead": true
+    },
+    {
+        "id": 5,
+        "avatar": "../public/images/avatar-nathan-peterson.webp",
+        "name": "Nathan Peterson",
+        "notificationDescription": "reacted to your recent post",
+        "timeAgo": "2 weeks ago",
+        "message": "",
+        "yourPicture": "",
+        "highlight": "5 end-game strategies to increase your win rate",
+        "isRead": true
+    },
+    {
+        "id": 6,
+        "avatar": "../public/images/avatar-anna-kim.webp",
+        "name": "Anna Kim",
+        "notificationDescription": "left the group",
+        "timeAgo": "2 weeks ago",
+        "message": "",
+        "yourPicture": "",
+        "highlight": "Chess Club",
+        "isRead": true
+    }
+]
