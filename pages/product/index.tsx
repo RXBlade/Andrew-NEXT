@@ -5,13 +5,8 @@ function Product() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Product Component</title>
         <link rel="shortcut icon" href="/images/favicon.ico" />
-        <link
-          rel="apple-touch-icon"
-          sizes="180x180"
-          href="/images/apple-touch-icon.png"
-        />
         <link
           rel="icon"
           type="image/png"
@@ -24,16 +19,6 @@ function Product() {
           sizes="16x16"
           href="/images/favicon-16x16.png"
         />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap"
-          rel="stylesheet"
-        ></link>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap"
-          rel="stylesheet"
-        ></link>
       </Head>
       <div className="flex w-screen h-screen justify-center items-center bg-[hsl(30,38%,92%)]">
         <div className="flex flex-col w-11/12 shadow-md bg-white rounded-md sm:flex-row sm:h-3/6 sm:max-w-xl">
